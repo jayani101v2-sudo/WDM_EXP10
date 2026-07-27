@@ -1,5 +1,9 @@
+### DATE: 27/07/26
+### Name: Jayani N
+### Reg no: 212224100025
+
+
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +30,9 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1127" height="701" alt="image" src="https://github.com/user-attachments/assets/dc061609-b282-4995-b541-3c283941eaf2" />
+<img width="1387" height="778" alt="image" src="https://github.com/user-attachments/assets/201f5861-240d-4751-bd14-4675917745ef" />
+
 
 ### Result:
+Thus, the project for Sentimental Analysis Using Rapidminer created successfully.
